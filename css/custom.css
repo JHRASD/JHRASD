@@ -1,0 +1,7 @@
+/* custom.css */
+.kugou-player iframe {
+    width: 100%;
+    height: 130px;
+    border: none;
+    margin-top: 20px;
+}
